@@ -1,0 +1,33 @@
+/* Custom CSS styles */
+*
+{
+    background-color: black;
+}
+body {
+    color: white;
+    font-family: Arial, sans-serif;
+}
+.col
+{
+    align: left 20px;
+}
+
+/* Logo styles */
+.logo {
+    max-width: 100px;
+}
+
+/* Button styles */
+#registerButton {
+    margin-top: 20px;
+}
+
+/* Link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
